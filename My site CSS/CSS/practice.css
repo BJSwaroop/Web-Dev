@@ -1,0 +1,109 @@
+body{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  margin: 0;
+}
+.top-container{
+  padding-top: 200px;
+  background-color: #E4F9F5;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 60px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+}
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 0 auto 0 auto;
+
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+
+}
+p{
+  margin: 0;
+}
+.pro{
+  text-decoration: underline;
+}
+.programmer{
+  line-height: 200%;
+  font-weight: normal;
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+.btn{
+
+  color: #11999E;
+
+}
+.footer-link{
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+  color: #11999E;
+
+}
+.sun{
+  border-radius: 500px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.stars{
+  border-radius: 500px;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.swaroop{
+  width: 25%;
+  border-radius: 500px;
+}
+.profile{
+
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.credits{
+  color: white;
+  margin: 40px auto 0 auto;
+}
+.bottom-container{
+  padding-top: 40px;
+  padding-bottom: 30px;
+  background-color: #66BFBF;
+
+}
+.p{
+  line-height: 2;
+}
+hr{
+  borde: dotted #EAF6F6;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
